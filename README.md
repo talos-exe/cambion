@@ -16,4 +16,4 @@ This is our 2d RPG made in Unity.
 ### Nick B. - Art Lead, Sound, Effects
 ### Ethan G. - Art Lead, Programmer
 
-This is a school project that will be made private after the semester has ended.
+
